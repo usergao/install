@@ -6,7 +6,7 @@ HOMEBREW_PREFIX = "/usr/local".freeze
 HOMEBREW_REPOSITORY = "/usr/local/Homebrew".freeze
 HOMEBREW_CACHE = "#{ENV["HOME"]}/Library/Caches/Homebrew".freeze
 HOMEBREW_OLD_CACHE = "/Library/Caches/Homebrew".freeze
-BREW_REPO = "https://github.com/Homebrew/brew".freeze
+BREW_REPO = "https://github.com/Homebrew/brew/tree/1.5.12".freeze
 CORE_TAP_REPO = "https://github.com/Homebrew/homebrew-core".freeze
 
 # no analytics during installation
